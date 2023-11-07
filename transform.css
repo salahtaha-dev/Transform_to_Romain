@@ -1,0 +1,16 @@
+.chiffresRomains{
+    color: blue;
+    margin-bottom: 2px;
+}
+
+.convertisseur{
+    color: blue;
+}
+
+.chiffresArabes{
+    color: blue
+}
+
+.input{
+    border: solid 2px red;
+}
